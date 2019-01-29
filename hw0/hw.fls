@@ -1,9 +1,9 @@
-PWD /Users/Amy/Documents/Semester 6/Machine Learning/hw0
+PWD /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0
 INPUT /usr/local/texlive/2017/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.tex
-OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.log
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.tex
+OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.log
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
@@ -166,9 +166,9 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fundus-calligra/calligra.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fundus-calligra/calligra.sty
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.aux
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.aux
-OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.aux
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.aux
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.aux
+OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.aux
 INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -181,14 +181,14 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.out
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.out
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.out
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.out
-OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.pdf
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.out
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.out
-OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.out
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.out
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.out
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.out
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.out
+OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.pdf
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.out
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.out
+OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.out
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
@@ -219,23 +219,23 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/install_check.py
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/install_check.py
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/install_check.py
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/install_check.py
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/install_check.py
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/install_check.py
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/python_downloads.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/python_downloads.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/python_downloads.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/github_name.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/github_name.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/github_name.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/proof_of_collab.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/proof_of_collab.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/proof_of_collab.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/python_downloads.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/python_downloads.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/python_downloads.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/github_name.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/github_name.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/github_name.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/proof_of_collab.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/proof_of_collab.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/proof_of_collab.png
 INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/kaggle_proof.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/kaggle_proof.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/kaggle_proof.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/kaggle_proof.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/kaggle_proof.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/kaggle_proof.png
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
@@ -246,21 +246,21 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/matrix_checks.py
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/matrix_checks.py
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/matrix_checks.py
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/matrix_errors.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/matrix_errors.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/matrix_errors.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/matrix_answers.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/matrix_answers.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/matrix_answers.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/pic_7_answer.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/pic_7_answer.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/pic_7_answer.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.aux
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.out
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/hw0/hw.out
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/matrix_checks.py
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/matrix_checks.py
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/matrix_checks.py
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/matrix_errors.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/matrix_errors.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/matrix_errors.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/matrix_answers.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/matrix_answers.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/matrix_answers.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/pic_7_answer.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/pic_7_answer.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/pic_7_answer.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.aux
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.out
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.out
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
