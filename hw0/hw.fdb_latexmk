@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1548790971 "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.tex" "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.pdf" "hw" 1548790972
-  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.aux" 1548790972 1494 cb9af4e8ef5d9bb16cc66a44d768e7ea ""
-  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.tex" 1548790970 13123 7b4781555d3947e798d0f07381d8aaeb ""
+["pdflatex"] 1548801047 "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.tex" "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.pdf" "hw" 1548801048
+  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.aux" 1548801048 1494 cb9af4e8ef5d9bb16cc66a44d768e7ea ""
+  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.tex" 1548801047 13129 b2e0c0a6cf97df2ed1cd4b5b50949b34 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -154,9 +154,9 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "github_name.png" 1548367945 13658 4418f3c93cb689c97ca58b4c38801754 ""
-  "hw.aux" 1548790972 1494 cb9af4e8ef5d9bb16cc66a44d768e7ea ""
-  "hw.out" 1548790972 386 f076f2c3377e3476fb501b0f52b8bb0c ""
-  "hw.tex" 1548790970 13123 7b4781555d3947e798d0f07381d8aaeb ""
+  "hw.aux" 1548801048 1494 cb9af4e8ef5d9bb16cc66a44d768e7ea ""
+  "hw.out" 1548801048 386 f076f2c3377e3476fb501b0f52b8bb0c ""
+  "hw.tex" 1548801047 13129 b2e0c0a6cf97df2ed1cd4b5b50949b34 ""
   "install_check.py" 1548367174 393 61280fa6d98565b0ed861b6eacf0bd27 ""
   "kaggle_proof.png" 1548368763 105561 58a11dd8b5b538c0f44a481d16f16f42 ""
   "matrix_answers.png" 1548369881 24588 07d8ad60981e0f487c35da8f4665f2af ""
@@ -166,9 +166,9 @@
   "proof_of_collab.png" 1548368077 59686 367ee8ac1abe6adf33b64b895b44fa14 ""
   "python_downloads.png" 1548367330 57837 0a57bae095abf1c18b93be41804d6609 ""
   (generated)
-  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.pdf"
-  "hw.log"
-  "hw.aux"
   "hw.out"
   "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.log"
+  "hw.log"
   "hw.pdf"
+  "hw.aux"
+  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/hw0/hw.pdf"
