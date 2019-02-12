@@ -24,7 +24,7 @@ Amy Pitts
 
 \small 
 Machine Learning DATA 440 \\ 
-February 9, 2019 \\
+February 13, 2019 \\
 Amy.Pitts1@marist.edu\\
 
 \end{center}
@@ -55,12 +55,27 @@ The output would be two distribution, one being the location
 and one being the number of clusters. Coded in python, this 
 algorithm theoretically could take any data and would output 
 the distribution of number and location of clusters as well 
-as the error rates. 
+as the error rates. \\
+\indent Initial research has brought up that MCMC technique can 
+be computationally time-consuming and time expensive. However, 
+some approaches such as in \cite{Salakhutdinov08} have shown 
+that using a simple Gibbs sampler produced results that 
+contained lower error rates compare to no Bayesian techniques.  
+Bayesian clustering algorithms also already exist such as 
+in \cite{Binder78}, although this paper is relatively old 
+and confusing it provides evidence that approaching a 
+clustering problem with Bayesian statistics is possible.   
+	
+
 
 
 
 \begin{thebibliography}{9}
     %Starting at background: 
+    \bibitem{Binder78}
+    D. A. Binder "Bayesian Cluster Analysis" 
+    \textit{Biometrika} no.1, vol. 65 pp. 31-38. 1978.
+
     \bibitem{Ramachandran07}
     D. Ramachandran, and E. Amir. "Bayesian inverse reinforcement 
     learning." \textit{Urbana}  vol.51 pp.1-4, 2007. 
@@ -80,11 +95,6 @@ as the error rates.
     Algorithm for Partially Observable Markov Decision Problems" 
     \textit{ Advances in neural information processing systems}
     pp.345-352, 1995
-
-    \bibitem{Jaakkola95}
-    D. A. Binder "Bayesian Cluster Analysis" 
-    \textit{Biometrika} no.1, vol. 65 pp. 31-38. 1978.
-
 
 
 \end{thebibliography}

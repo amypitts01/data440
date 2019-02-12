@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1549928355 "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.tex" "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.pdf" "prj_proposal" 1549928355
-  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.aux" 1549928355 135 92dacd18e0aef8f9a2158cc14945b6ec ""
-  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.tex" 1549928354 2972 673cf52a4db14cac8a60f04fa13085a9 ""
+["pdflatex"] 1550007508 "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.tex" "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.pdf" "prj_proposal" 1550007509
+  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.aux" 1550007508 180 ee58936256bb2edcecde9ee84d5d8900 ""
+  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.tex" 1550007508 3521 5634f36de0a84cb20b1705a772a10a18 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1480098701 1288 655e228510b4c2a1abe905c368440826 ""
@@ -44,11 +44,11 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "prj_proposal.aux" 1549928355 135 92dacd18e0aef8f9a2158cc14945b6ec ""
-  "prj_proposal.tex" 1549928354 2972 673cf52a4db14cac8a60f04fa13085a9 ""
+  "prj_proposal.aux" 1550007508 180 ee58936256bb2edcecde9ee84d5d8900 ""
+  "prj_proposal.tex" 1550007508 3521 5634f36de0a84cb20b1705a772a10a18 ""
   (generated)
-  "prj_proposal.pdf"
   "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.pdf"
   "prj_proposal.aux"
-  "prj_proposal.log"
+  "prj_proposal.pdf"
   "/Users/Amy/Documents/Semester 6/Machine Learning/data440/pitts_prj/prj_proposal.log"
+  "prj_proposal.log"
