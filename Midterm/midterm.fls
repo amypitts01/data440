@@ -1,9 +1,9 @@
-PWD /Users/Amy/Documents/Semester 6/Machine Learning/Midterm
+PWD /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm
 INPUT /usr/local/texlive/2017/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.tex
-OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.log
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.tex
+OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.log
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
@@ -90,9 +90,9 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.aux
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.aux
-OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.aux
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.aux
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.aux
+OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.aux
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -141,40 +141,43 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/a_original.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/a_original.png
-OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.pdf
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/a_original.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/a_fit.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/a_fit.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/a_fit.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/b_original.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/b_original.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/b_original.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/b_fit.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/b_fit.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/b_fit.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/a_original.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/a_original.png
+OUTPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.pdf
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/a_original.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/a_fit.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/a_fit.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/a_fit.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/b_original.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/b_original.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/b_original.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/b_fit.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/b_fit.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/b_fit.png
 INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/c_original.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/c_original.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/c_original.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/c_fit.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/c_fit.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/c_fit.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/c_original.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/c_original.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/c_original.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/c_fit.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/c_fit.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/c_fit.png
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbxsl10.tfm
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/python/q2.py
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/python/q2.py
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/python/q2.py
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/python/q2.py
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/python/q2.py
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/python/q2.py
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/q2_N.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/q2_N.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/q2_N.png
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/logo.jpg
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/logo.jpg
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/pics/logo.jpg
-INPUT /Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.aux
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/q2_N.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/q2_N.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/q2_N.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/logo.jpg
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/logo.jpg
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/logo.jpg
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/logo_2.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/logo_2.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/pics/logo_2.png
+INPUT /Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.aux
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb

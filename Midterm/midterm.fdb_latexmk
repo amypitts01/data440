@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1552146928 "/Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.tex" "/Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.pdf" "midterm" 1552146931
-  "/Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.aux" 1552146930 70 4dbf08da1c92f399dffdc8d2607b0ea7 ""
-  "/Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.tex" 1552146928 8660 08de7177777f73b710e4650a189d5b2d ""
+["pdflatex"] 1552251160 "/Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.tex" "/Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.pdf" "midterm" 1552251163
+  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.aux" 1552251162 70 4dbf08da1c92f399dffdc8d2607b0ea7 ""
+  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.tex" 1552251160 8712 a62da933094a96e0e00ee022e9208101 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1480098666 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1480098696 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -99,8 +99,8 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "midterm.aux" 1552146930 70 4dbf08da1c92f399dffdc8d2607b0ea7 ""
-  "midterm.tex" 1552146928 8660 08de7177777f73b710e4650a189d5b2d ""
+  "midterm.aux" 1552251162 70 4dbf08da1c92f399dffdc8d2607b0ea7 ""
+  "midterm.tex" 1552251160 8712 a62da933094a96e0e00ee022e9208101 ""
   "pics/a_fit.png" 1552144542 138411 730741fc0a0a3dff5442319843d9e135 ""
   "pics/a_original.png" 1552143958 136729 1c8de06ba4d82d359cb6d9e3a686addb ""
   "pics/b_fit.png" 1552144075 94073 fffb4192b94be45b1e48f7bc5f8bc0bf ""
@@ -108,11 +108,12 @@
   "pics/c_fit.png" 1552144464 120911 3b0843e198ce227b0bbde4c5a864c804 ""
   "pics/c_original.png" 1552144265 136729 1c8de06ba4d82d359cb6d9e3a686addb ""
   "pics/logo.jpg" 1552146667 1567126 763e71c4f73d9c9971f1049a7a92a11c ""
+  "pics/logo_2.png" 1552251078 22070 5d2f3c9be40c41e99c03ade93339bc03 ""
   "pics/q2_N.png" 1551971238 35599 158c4b13121c0f1ecbc016e2b3c05fbd ""
   "python/q2.py" 1551971520 700 519f7e1e2fc59807c6be74fc93089298 ""
   (generated)
+  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.log"
   "midterm.log"
-  "midterm.pdf"
-  "/Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.pdf"
-  "/Users/Amy/Documents/Semester 6/Machine Learning/Midterm/midterm.log"
   "midterm.aux"
+  "midterm.pdf"
+  "/Users/Amy/Documents/Semester 6/Machine Learning/data440/Midterm/midterm.pdf"
